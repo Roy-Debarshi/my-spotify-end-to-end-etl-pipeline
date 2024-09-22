@@ -3,7 +3,7 @@
 This project was made to create a ETL pipeline using AWS, to retrieve Spotify's Top 100 songs data via spotify API, transform it and store in AWS database.
 
 ## architecture
-![architecture diagram]
+![architecture diagram](spotify_api_end_to_end_pipeline_flow3.png)
 
 ## About Databas/API
 The data contains Top 100 songs playlist fetched from Spotify using the spotify web API - [Spotify API](https://developer.spotify.com/documentation/web-api)
